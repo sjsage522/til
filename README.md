@@ -11,3 +11,5 @@ Today I Learned
 
 - [Queue](https://github.com/sjsage522/til/tree/master/DataStructure/05.%20큐(Queue))
 
+- [LinkedList l](https://github.com/sjsage522/til/tree/master/DataStructure/06.%20연결리스트 l(LinkedList))
+
