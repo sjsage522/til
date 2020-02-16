@@ -1,8 +1,6 @@
 # til
 Today I Learned
 
-
-
 ## Categories
 
 ### DataStructure
