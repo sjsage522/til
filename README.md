@@ -13,3 +13,5 @@ Today I Learned
 
 - [LinkedList l](https://github.com/sjsage522/til/tree/master/DataStructure/06.%20연결리스트%20l(LinkedList))
 
+- [LinkedList ll](https://github.com/sjsage522/til/tree/master/DataStructure/06.%20연결리스트%20ll(LinkedList))
+
