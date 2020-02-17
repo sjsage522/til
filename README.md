@@ -5,7 +5,7 @@ Today I Learned
 
 ### DataStructure
 
-- [DataSturucture and Algorithm](https://github.com/sjsage522/til/tree/master/DataStructure/01.%20자료구조와20%알고리즘(DataStructure%20and%20Algorithm))
+- [DataSturucture and Algorithm](https://github.com/sjsage522/til/tree/master/DataStructure/01.%20자료구조와%20알고리즘(DataStructure%20and%20Algorithm))
 
 - [Stack](https://github.com/sjsage522/til/tree/master/DataStructure/04.%20스택(Stack))
 
@@ -14,4 +14,3 @@ Today I Learned
 - [LinkedList l](https://github.com/sjsage522/til/tree/master/DataStructure/06.%20연결리스트%20l(LinkedList))
 
 - [LinkedList ll](https://github.com/sjsage522/til/tree/master/DataStructure/07.%20연결리스트%20ll(LinkedList))
-
