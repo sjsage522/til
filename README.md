@@ -15,3 +15,5 @@
 
 - [Tree](https://github.com/sjsage522/til/tree/master/DataStructure/08.%20트리(Tree))
 
+- [PriorityQueue](https://github.com/sjsage522/til/tree/master/DataStructure/09.%20우선순위%20큐(PriorityQueue))
+
