@@ -21,5 +21,5 @@
 
 ### HTML
 
-- [1. HTML 기초](https://github.com/sjsage522/til/blob/master/HTML/1.%20HTML%20기초.md)
+- [1. HTML basis](https://github.com/sjsage522/til/blob/master/HTML/1.%20HTML%20basis.md)
 
