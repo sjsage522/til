@@ -23,3 +23,5 @@
 
 - [1. HTML basis](https://github.com/sjsage522/til/blob/master/HTML/1.%20HTML%20basis.md)
 
+- [2. HTML text_element](https://github.com/sjsage522/til/blob/master/HTML/2.%20HTML%20text_element.md)
+
