@@ -25,3 +25,5 @@
 
 - [2. HTML text_element](https://github.com/sjsage522/til/blob/master/HTML/2.%20HTML%20text_element.md)
 
+- [3. HTML basic_element](https://github.com/sjsage522/til/blob/master/HTML/3.%20HTML%20basic_element.md)
+
