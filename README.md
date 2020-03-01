@@ -22,11 +22,8 @@
 ### HTML
 
 - [1. HTML basis](https://github.com/sjsage522/til/blob/master/HTML/1.%20HTML%20basis.md)
-
 - [2. HTML text_element](https://github.com/sjsage522/til/blob/master/HTML/2.%20HTML%20text_element.md)
-
 - [3. HTML basic_element](https://github.com/sjsage522/til/blob/master/HTML/3.%20HTML%20basic_element.md)
-
 - [4. HTML space_division](https://github.com/sjsage522/til/blob/master/HTML/4.%20HTML%20space_division.md)
-
 - [5. HTML input_form](https://github.com/sjsage522/til/blob/master/HTML/5.%20HTML%20input_form.md)
+- [6. HTML expansion](https://github.com/sjsage522/til/blob/master/HTML/6.%20HTML%20expansion.md)
