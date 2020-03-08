@@ -27,3 +27,5 @@
 - [4. HTML space_division](https://github.com/sjsage522/til/blob/master/HTML/4.%20HTML%20space_division.md)
 - [5. HTML input_form](https://github.com/sjsage522/til/blob/master/HTML/5.%20HTML%20input_form.md)
 - [6. HTML expansion](https://github.com/sjsage522/til/blob/master/HTML/6.%20HTML%20expansion.md)
+- [7. HTML5 intro](https://github.com/sjsage522/til/blob/master/HTML/7.%20HTML5%20intro.md)
+
