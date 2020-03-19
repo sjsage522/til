@@ -17,6 +17,7 @@
 - [Graph l](https://github.com/sjsage522/til/tree/master/DataStructure/10.%20그래프%20l(Graph))
 - [Graph ll](https://github.com/sjsage522/til/tree/master/DataStructure/11.%20그래프%20ll(Graph))
 - [Sort](https://github.com/sjsage522/til/tree/master/DataStructure/12.%20정렬(Sort))
+- [Search](https://github.com/sjsage522/til/tree/master/DataStructure/13.%20탐색(Search))
 
 ### HTML
 
