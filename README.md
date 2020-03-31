@@ -3,32 +3,37 @@
 
 ## Categories
 
-### DataStructure
+<details>
+    <summary><b>DataStructure</b></summary>
+    <ul>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/01.%20자료구조와%20알고리즘(DataStructure%20and%20Algorithm)">DataStructure and Algorithm</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/02.%20순환(Recursive)">Recursive</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/03.%20배열(Array)">Array</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/04.%20스택(Stack)">Stack</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/05.%20큐(Queue)">Queue</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/06.%20연결리스트%20l(LinkedList)">LinkedList l</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/07.%20연결리스트%20ll(LinkedList)">LinkedList ll</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/08.%20트리(Tree)">Tree</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/09.%20우선순위%20큐(PriorityQueue)">PriorityQueue</a></li> 
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/10.%20그래프%20l(Graph)">Graph l</a></li>   
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/11.%20그래프%20ll(Graph)">Graph ll</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/12.%20정렬(Sort)">Sort</a></li> 
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/13.%20탐색(Search)">Search</a></li> 
+        <li><a href="https://github.com/sjsage522/til/tree/master/DataStructure/14.%20해싱(Hashing)">Hashing</a></li>
+    </ul>
+</details>
 
-- [DataSturucture and Algorithm](https://github.com/sjsage522/til/tree/master/DataStructure/01.%20자료구조와%20알고리즘(DataStructure%20and%20Algorithm))
-- [Recursive](https://github.com/sjsage522/til/tree/master/DataStructure/02.%20순환(Recursive))
-- [Array](https://github.com/sjsage522/til/tree/master/DataStructure/03.%20배열(Array))
-- [Stack](https://github.com/sjsage522/til/tree/master/DataStructure/04.%20스택(Stack))
-- [Queue](https://github.com/sjsage522/til/tree/master/DataStructure/05.%20큐(Queue))
-- [LinkedList l](https://github.com/sjsage522/til/tree/master/DataStructure/06.%20연결리스트%20l(LinkedList))
-- [LinkedList ll](https://github.com/sjsage522/til/tree/master/DataStructure/07.%20연결리스트%20ll(LinkedList))
-- [Tree](https://github.com/sjsage522/til/tree/master/DataStructure/08.%20트리(Tree))
-- [PriorityQueue](https://github.com/sjsage522/til/tree/master/DataStructure/09.%20우선순위%20큐(PriorityQueue))
-- [Graph l](https://github.com/sjsage522/til/tree/master/DataStructure/10.%20그래프%20l(Graph))
-- [Graph ll](https://github.com/sjsage522/til/tree/master/DataStructure/11.%20그래프%20ll(Graph))
-- [Sort](https://github.com/sjsage522/til/tree/master/DataStructure/12.%20정렬(Sort))
-- [Search](https://github.com/sjsage522/til/tree/master/DataStructure/13.%20탐색(Search))
-- [Hashing](https://github.com/sjsage522/til/tree/master/DataStructure/14.%20해싱(Hashing))
-
-### HTML
-
-- [1. HTML basis](https://github.com/sjsage522/til/blob/master/HTML/1.%20HTML%20basis.md)
-- [2. HTML text_element](https://github.com/sjsage522/til/blob/master/HTML/2.%20HTML%20text_element.md)
-- [3. HTML basic_element](https://github.com/sjsage522/til/blob/master/HTML/3.%20HTML%20basic_element.md)
-- [4. HTML space_division](https://github.com/sjsage522/til/blob/master/HTML/4.%20HTML%20space_division.md)
-- [5. HTML input_form](https://github.com/sjsage522/til/blob/master/HTML/5.%20HTML%20input_form.md)
-- [6. HTML expansion](https://github.com/sjsage522/til/blob/master/HTML/6.%20HTML%20expansion.md)
-- [7. HTML5 intro](https://github.com/sjsage522/til/blob/master/HTML/7.%20HTML5%20intro.md)
-
-- [8. HTML5 element](https://github.com/sjsage522/til/blob/master/HTML/8.%20HTML5%20element.md)
+<details>
+    <summary><b>HTML</b></summary>
+    <ul>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/1.%20HTML%20basis.md">Basic</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/2.%20HTML%20text_element.md">TextElement</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/3.%20HTML%20basic_element.md">BasicElement</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/4.%20HTML%20space_division.md">SpaceDivision</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/5.%20HTML%20input_form.md">InputForm</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/6.%20HTML%20expansion.md">Expansion</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/7.%20HTML5%20intro.md">HTML5 Intro</a></li>
+        <li><a href="https://github.com/sjsage522/til/blob/master/HTML/8.%20HTML5%20element.md">HTML5 element</a></li>
+    </ul>
+</details>
 
