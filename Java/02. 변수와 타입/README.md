@@ -690,3 +690,77 @@ public class OperationsPromotionExample {
 
 
 
+## 2.4 시스템 입출력
+
+### 2.4.1 출력
+
+<b><u>모니터로 변수값 출력하기</u></b>
+
+  System 클래스안에 static PrintStream클래스로 정의된 out의 메소드
+(out은 표준 출력 스트림)
+
+| 메소드                              | 의미                                          |
+| ----------------------------------- | --------------------------------------------- |
+| println(내용);                      | 괄호 안의 내용을 출력하고 행을 바꿈           |
+| print(내용);                        | 괄호 안의 내용을 출력                         |
+| printf("형식문자열", 값1, 값2, ...) | 괄호 안의 첫 번째 문자열 형식대로 내용을 출력 |
+
+```java
+int var = 10;
+
+System.out.println(10);	//ln은 line의 줄임말로 행을 바꾸라는 의미
+System.out.print(10);
+System.out.printf("var : %d\n", var);
+```
+
+- Java API에 더많은 메소드들이 설명되어있음
+  https://docs.oracle.com/javase/7/docs/api/
+
+
+
+### 2.4.2 입력
+
+  System 클래스안에 static InputStream클래스로 정의된 in의 메소드
+(in은 표준 출력 스트림)
+
+키코드를 읽기 위해서는 System.in.read()를 이용하면 된다.
+
+```java
+public class KeyCodeExample {
+    public static void main(String[] args) throws Exception {
+        int keyCode;
+        
+        keyCode = System.in.read();
+        System.out.println("keyCode: " + keyCode);
+        
+        keyCode = System.in.read();
+        System.out.println("keyCode: " + keyCode);
+        
+        keyCode = System.in.read();
+        System.out.println("keyCode: " + keyCode);
+    }
+}
+```
+
+- 출력결과
+  `a`
+  `keyCode: 97`
+  `keyCode: 13`
+  `keyCode: 10`
+
+  System.in.read()가 실행되면 enter키가 입력될 때까지 대기 상태가 된다.
+enter키가 입력되면 입력된 키들에 대한 키코드를 하나씩 읽는다.
+( a의 키코드: 97, enter의 키코드: 13, 10(\\r, \n) )
+
+
+
+  System.in.read()의 단점은 키코드를 하나씩 읽기 때문에 2개 이상의 키가 조합된 한글을 읽을 수 없다는 점이다. 그리고 키보드로부터 입력된 내용을 통 문자열로 읽지 못한다.
+이러한 단점을 보완하기 위해 자바는 Scanner 클래스를 제공하고 있다.
+
+```java
+Scanner sc = new Scanner(System.in); //Scanner클래스의 객체를 생성하고 변수 sc에 저장
+
+String inputData = sc.nextLine(); 	 
+//enter키 이전까지 입력된 문자열을 읽고, 읽은 문자열을 변수 inputData에 저장
+```
+
