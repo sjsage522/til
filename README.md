@@ -41,6 +41,7 @@
     <summary><b>Java</b></summary>
     <ul>
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/01.%20자바%20시작하기">JavaIntro</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/Java/02.%20변수와%20타입">Variable and DataType</a></li>
     </ul>
 </details>
 
