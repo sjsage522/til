@@ -1,5 +1,5 @@
 # til
-**Today I Learned**
+<b>Today I Learned</b>
 
 ## Categories
 
