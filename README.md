@@ -44,7 +44,10 @@
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/04.%20조건문과%20반복문">Conditional and Looping Statements</a></li>
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/05.%20참조%20타입">Reference Type</a></li>
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/06.%20클래스">Class</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/Java/07.%20상속">
+Inheritance</a></li>
     </ul>
 </details>
+
 
 
