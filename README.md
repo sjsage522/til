@@ -46,8 +46,11 @@
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/06.%20클래스">Class</a></li>
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/07.%20상속">
 Inheritance</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/Java/08.%20인터페이스">
+Interface</a></li>
     </ul>
 </details>
+
 
 
 
