@@ -48,8 +48,11 @@
 Inheritance</a></li>
         <li><a href="https://github.com/sjsage522/til/tree/master/Java/08.%20인터페이스">
 Interface</a></li>
+        <li><a href="https://github.com/sjsage522/til/tree/master/Java/09.%20중첩클래스와%20중첩인터페이스">
+Nested Class/Interface</a></li>
     </ul>
 </details>
+
 
 
 
