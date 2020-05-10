@@ -1,7 +1,10 @@
 # til
-<b>Today I Learned</b>
 
-## Categories
+<b>😀today i learned</b>
+
+<hr>
+
+## contents
 
 <details>
     <summary><b>DataStructure</b></summary>
@@ -54,8 +57,8 @@ Nested Class/Interface</a></li>
 Exception Handling</a></li>        
     </ul>
 </details>
+<hr>
 
-
-
+- <a href="https://github.com/sjsage522/til/tree/master/Git">Git</a>
 
 
