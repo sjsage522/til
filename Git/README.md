@@ -238,6 +238,7 @@ Git은 다양한 프로토콜을 지원한다. 이제까지는 `https://` 프로
 <br>
 
 <b>*파일의 상태 확인하기*</b>
+
   파일의 상태를 확인하려면 보통 `git status`명령을 사용한다. Clone 한 후에 바로 이 명령을 사용하면 아래와 같은 메시지를 볼 수 있다.
 
 ```bash
@@ -275,6 +276,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 <br>
 
 <b>*파일을 새로 추적하기*</b>
+
   `git add` 명령으로 파일을 새로 추적할 수 있다. 아래 명령을 실행하면 Git은 `README.md` 파일을 추적한다.
 
 ```bash
@@ -298,6 +300,7 @@ Changes to be committed:
 <br>
 
 <b>*Modified 상태의 파일을 Stage 하기*</b>
+
   이미 Tracked 상태인 파일을 수정하는 법을 알아보자. `CONTRIBUTING.md` 라는 파일을 수정하고 나서 `git status` 명령을 다시 실행하면 결과는 아래와 같다.
 
 ```bash
@@ -380,6 +383,7 @@ Changes to be committed:
 <br>
 
 <b>*파일 상태를 짤막하게 확인하기*</b>
+
   `git status -s` 또는 `git status --short` 처럼 옵션을 주면 현재 변경한 상태를 짤막하게 보여준다.
 
 ```bash
@@ -402,6 +406,7 @@ M  lib/simplegit.rb
 <br>
 
 <b>*파일 무시하기*</b>
+
   어떤 파일은 Git이 관리할 필요가 없다. 보통 로그 파일이나 빌드 ㅅ스템이 자동으로 생성한 파일이 그렇다. 그런 파일을 무시하려면 `.gitignore`파일을 만들고 그 안에 무시할 파일 패턴을 적는다. 
 
   아래는 `.gitignore`파일의 예이다.
@@ -452,6 +457,7 @@ $ git commit -m "Story 182: Fix benchmarks for speed"
 <br>
 
 <b>*Staging Area 생략하기*</b>
+
   `git commit` 명령을 실행할 때 `-a` 옵션을 추가하면 Git은 Tracked 상태의 파일을 자동으로 Staging Area에 넣는다. 그래서 `git add` 명령을 실행하는 수고를 덜 수 있다.
 
 ```bash
@@ -475,6 +481,7 @@ $ git commit -a -m 'added new benchmarks'
 
 
 <b>*파일 삭제하기*</b>
+
   Git에서 파일을 제거하려면 `git rm` 명령으로 Tracked 상태의 파일을 삭제한 후에(정확하게는 Staging Area에서 삭제하는 것) 커밋해야 한다. 이 명령은 워킹 디렉토리에 있는 파일도 삭제하기 때문에 실제로 파일도 지워진다.
 
   Git 명령을 사용하지 않고 단순히 워킹 디렉터리에서 파일을 삭제하고 `git status` 명령으로 상태를 확인하면 Git은 현재 “Changes not staged for commit” (즉, *Unstaged* 상태)라고 표시해준다.
@@ -512,6 +519,7 @@ Changes to be committed:
 <br>
 
 <b>*파일 이름 변경하기*</b>
+
   Git은 파일 이름의 변경이나 파일의 이동을 명시적으로 관리하지 않는다.
 다시 말해서 파일 이름이 변경됐다는 별도의 정보를 저장하지 않는다.
 
