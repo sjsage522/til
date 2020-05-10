@@ -161,6 +161,7 @@ Jun Shin
 <br>
 
 <b>*기존 디렉토리를 Git 저장소로 만들기*</b>
+
   버전 관리를 하지 않는 기존 프로젝트를 Git으로 관리하고 싶은 경우 우선 프로젝트의 디렉토리로 이동한다.
 
   그리고 아래와 같은 명령을 실행한다.
@@ -182,7 +183,9 @@ $ git commit -m 'initial project version'
 
 <br>
 
-<b>*기존 저장소를 clone 하기*</b>
+<b>*기존 저장소를 clone 하기*
+</b>
+
   다른 프로젝트에 참여하려거나(Contribute) Git 저장소를 복사하고 싶을 때 `git clone` 명령을 사용한다.
 
   `git clone`을 실행하면 프로젝트 히스토리를 전부 받아온다. 
