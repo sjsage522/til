@@ -19,5 +19,5 @@
 
 ### JavaScript
 
-- <a href="https://github.com/sjsage522/til/JavaScript/arguments.md">arguments</a>
+- <a href="https://github.com/sjsage522/til/blob/master/JavaScript/arguments.md">arguments</a>
 
