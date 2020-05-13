@@ -2,26 +2,32 @@
 
 > <b>today i learned</b>
 
-<hr>
+<br />
+
 
 ## Summary
 
 
 - <a href="https://github.com/sjsage522/til/tree/master/Git">Git [Official document]</a>
 
-<hr>
+<br />
+
 ## Categories
 
-- <a href="#Java">Java</a>
 
+- <a href="#Java">Java</a>
 - <a href="#JavaScript">JavaScript</a>
 
-<hr>
+<br />
+
+
 ## Java
+
 
 - <a href="https://github.com/sjsage522/til/blob/master/Java/difference-between-getDeclaredConstructors-and-getConstructors.md">Difference between <b>getDeclaredConstructors</b> and <b>getConstructors</b></a>
 
-<hr>
+<br />
+
 
 ### JavaScript
 
