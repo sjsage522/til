@@ -26,4 +26,5 @@
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/chaining.md">chaining</a>
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/Constructor-operator-new.md">Constructor, operator "new"</a>
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/Optional-chaining.md">Optional chaining '?.'</a>
+- <a href="https://github.com/sjsage522/til/blob/master/JavaScript/Object-to-primitive-conversion.md">Object to primitive conversion</a>
 
