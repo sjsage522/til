@@ -24,4 +24,5 @@
 
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/arguments.md">arguments</a>
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/chaining.md">chaining</a>
+- <a href="https://github.com/sjsage522/til/blob/master/JavaScript/Constructor-operator-new.md">Constructor, operator "new"</a>
 
