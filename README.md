@@ -35,6 +35,5 @@
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/Object-to-primitive-conversion.md">Object to primitive conversion</a>
 
 - <a href="https://github.com/sjsage522/til/blob/master/JavaScript/remove-element-of-arrays.md">remove element of arrays</a>
-
-  
+- <a href="https://github.com/sjsage522/til/blob/master/JavaScript/searching-in-array.md">searching in array</a>
 
