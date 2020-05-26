@@ -16,6 +16,7 @@
 
 
 - <a href="https://github.com/sjsage522/til/blob/master/Java/difference-between-getDeclaredConstructors-and-getConstructors.md">difference between getDeclaredConstructors and getConstructors</a>
+- <a href="https://github.com/sjsage522/til/blob/master/Java/ImplementRunnable-ExtendThread.md">implement Runnable vs Extend Thread</a>
 - <a href="https://github.com/sjsage522/til/blob/master/Java/final%2Cstatic%2Cfinal-static.md">final, static, final static</a>
 - <a href="https://github.com/sjsage522/til/blob/master/Java/try-with-resource.md">try-with-resource</a>
 
