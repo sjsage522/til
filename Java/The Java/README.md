@@ -4,7 +4,7 @@
 
 ## Categories
 
-- <a href="JVM 이해하기">1. JVM 이해하기</a>
+- <a href="#JVM 이해하기">1. JVM 이해하기</a>
 
 ***
 
